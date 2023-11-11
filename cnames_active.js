@@ -1203,6 +1203,7 @@ var cnames_active = {
   "glitterbot": "glitterbot.netlify.app", // noCF
   "glize": "datamart.github.io/Glize",
   "globx": "aminadav.github.io/globx",
+  "glonance":"https://thegreatmigsby.github.io/glonance"
   "gloria": "gloriajs.github.io",
   "glottologist": "arguiot.github.io/Glottologist",
   "glyph": "zyrouge.github.io/glyph.css",
